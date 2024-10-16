@@ -1,0 +1,9 @@
+body {
+    font-family: "Roboto","Arial",sans-serif;
+}
+article{
+    text-align: justify;
+}
+a img {
+    cursor: pointer; /* Change le curseur pour indiquer qu'il est clicable */
+  }
